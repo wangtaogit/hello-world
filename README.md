@@ -1,6 +1,4 @@
 # hello-world
 Just a test
 
-How are you?
-
-This is in Master Branch.
+This is in Read_Branch
